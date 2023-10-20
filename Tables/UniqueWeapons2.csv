@@ -1,18 +1,18 @@
-1,A shortsword whose grip was forged from a pale ivory-like material that's smooth in parts and rough and porous in others. The pommel of the sword is an oddly contoured knob and Knowledgeable PC's can determine that parts of the weapon were created using materials taken from the arm bones of a humanoid.
-2,A beautiful recurve bow (Composite bow statistics) made for a tall being. It appears to be constructed from layers upon layers of glued and compressed maple leaves of many different autumnal colors. It's functions perfectly well and is surprisingly sturdy despite its leafy components.
-3,"A worn, ancient ^RandonNon-AmmunitionWeapons^, heavily tarnished with use. It lacks adornment and is coloured in drab muted grey tones. When wielded by a creature capable of casting druidic spells or nature based magics, the weapon transforms into a masterfully made version of itself that lacks a single nick, dent or imperfection. The weapon is bathed in rich vibrant hues and seems to project a small aura that sharpens and intensifies colours around it. The weapon returns to its dull appearance whenever not held by a creature capable of casting nature based magic spells."
+1,"A shortsword whose grip was forged from a pale ivory-like material that's smooth in parts and rough and porous in others. The pommel of the sword is an oddly contoured knob and Knowledgeable PC's can determine that parts of the weapon were created using materials taken from the arm bones of a humanoid."
+2,"A beautiful recurve bow (Composite bow statistics) made for a tall being. It appears to be constructed from layers upon layers of glued and compressed maple leaves of many different autumnal colors. It's functions perfectly well and is surprisingly sturdy despite its leafy components."
+3,"A worn, ancient ^RandomNon-AmmunitionWeapons^, heavily tarnished with use. It lacks adornment and is coloured in drab muted grey tones. When wielded by a creature capable of casting druidic spells or nature based magics, the weapon transforms into a masterfully made version of itself that lacks a single nick, dent or imperfection. The weapon is bathed in rich vibrant hues and seems to project a small aura that sharpens and intensifies colours around it. The weapon returns to its dull appearance whenever not held by a creature capable of casting nature based magic spells."
 4,"A two-handed mace with a thick, slightly bent shaft of antler for a haft that has been polished amber by antiquity. The based is capped by a gnarled socket of bronze, while the head is vaguely shaped to form four battered bulbs and made of a deep blue, mercurial metal that's harder than iron."
 5,"A plain wooden sheath containing a two-handed sword with a silver dragonskull pommel and an archaic crosshilt. When drawn from its sheath, the sword groans awake, emitting chains of smoke and filling the air with the sounds of creaking wheels and a chorus of hopeless moaning. Any blood that falls on the blade instantly boils and turns to ash."
-6,"A ^AllRandomWeapon^, inexplicably made solely of a crystal clear, glass prism. The glass has been magically enchanted to be stronger than steel and the weapon is as flexible and functional as a typical one of its type. The transparent material refracts even the weakest light into a rainbow of colours that shine in all directions."
+6,"A ^AllRandomWeaponTables^, inexplicably made solely of a crystal clear, glass prism. The glass has been magically enchanted to be stronger than steel and the weapon is as flexible and functional as a typical one of its type. The transparent material refracts even the weakest light into a rainbow of colours that shine in all directions."
 7,"A curved dagger with a gold scabbard worked in strange symbols. Fine gold wire wraps the hilt, which is capped by a ruby as big as a man's thumbnail, and the quillions are golden-scaled serpents baring their fangs. The bearer of the dagger gradually becomes more suspicious and distrusting of the creatures around him. A long term bearer could develop full blown paranoia and refuse to trust anyone. These feelings fade slowly on their own when the creature no longer carries the dagger."
 8,"A mace with a partially hollow head that contains a small chamber closed off by a set of iron grills. The chamber can be filled with pitch, oil and rags, coals or other flammable objects in order to be set alight. The mace then serves as a torch as well as a weapon which can free up a hand in a dark dungeon. While the reduced weight of the mace does make it less deadly when unlit, the heat and flames of a burning mace balances out its lethality. When lit, half of the weapon's rolled damage is fire damage and the rest typical for a mace. When unlit, the hollowed mace only deals half its rolled damage."
-9,A long katana that constantly emanates a pale green mist from the blade. The symbol of a thundering storm cloud is etched on the grip of the weapon. Small winds can be seen whirling around the sword and harmless thumb sized tornadoes form when the blade is first drawn or the wielder is angry.
+9,"A long katana that constantly emanates a pale green mist from the blade. The symbol of a thundering storm cloud is etched on the grip of the weapon. Small winds can be seen whirling around the sword and harmless thumb sized tornadoes form when the blade is first drawn or the wielder is angry."
 10,"The weapon's grip is wrapped in perpetually pure white linen from which a network of thin golden veins extend outward. When held, the wielder's mind is filled with thoughts of redemption, righteous vindication and protecting the innocent."
-11,"The ^RandonNon-AmmunitionWeapons^'s grip is wrapped in dark purple leather from which a network of thin black veins extend outward. When held, the wielder's mind is filled with dark thoughts of cruelty, senseless violence and causing harm to innocents."
+11,"The ^RandomNon-AmmunitionWeapons^'s grip is wrapped in dark purple leather from which a network of thin black veins extend outward. When held, the wielder's mind is filled with dark thoughts of cruelty, senseless violence and causing harm to innocents."
 12,"A greatsword with a blade made from a light, translucent metal and a pommel bearing a beautiful ruby. The wielder can feel that the weapon's power is dormant, lying ready to be awakened by a worthy being."
-13,A gleaming white scimitar with a wavy hilt and similarly patterned blade.
-14,A cane blowgun with a prayer to the forest gods carved onto its length.
-15,A heavy stone greatclub with bone spines drilled through it.
+13,"A gleaming white scimitar with a wavy hilt and similarly patterned blade."
+14,"A cane blowgun with a prayer to the forest gods carved onto its length."
+15,"A heavy stone greatclub with bone spines drilled through it."
 16,"A steel dagger concealed in a special sheath in a pair of boots. The dagger is clearly unused, its blade is sharp and polished to a high sheen."
 17,"A six-foot quarterstaff whose surface more closely resembles stone than wood but weighs little more than a staff of oak. Visible along its length are faint images of various foes caught in defensive postures, appearing almost as though they had been suddenly turned to stone and etched into the staff."
 18,"A dagger made from the tooth of a giant purple worm. The monstrous creature the tooth comes from is capable of chewing clear through stone. Without the worm's massive jaw strength behind it, the dagger is simply incredibly durable."
@@ -25,73 +25,73 @@
 25,"A heavy maul made elusively of wrought iron with blue patches on each end of the head. While in the bearer's possession, the creature will prefer to sleep nine hours a day instead of eight and will seek out the odd afternoon nap. The bearer suffers no penalties for not partaking in this additional sleep."
 26,"A lance of maple carved with scenes of lovers dancing and kissing. While held, the bearer feels a strong sense of calm and ease."
 27,"A karambit-style dagger fashioned from the claw of a large predator, with a wrapped sinew grip."
-28,A glaive of steel sharpened to such a fine edge that it almost cuts to look upon.
+28,"A glaive of steel sharpened to such a fine edge that it almost cuts to look upon."
 29,"A set of 12 wooden war darts, all carved with ancient runes beseeching the old Gods for true flight."
 30,"A sickle with a crimson colored steel blade that when swung, smells strongly of freshly spilled blood."
 31,"A well balanced morningstar with large, polished spikes. When wielded, a dull yellow glow similar to a sunrise emanates from the spikes."
-32,A grimy dagger of dwarven design. The maker's mark suggests that it used to belong to royalty
-33,A petrified bone club with an obsidian head.
-34,A crude shortbow made of treated bone with braided sinew bowstring.
-35,A longbow carved from purple heartwood with bright steel fixtures and a black bowstring.
+32,"A grimy dagger of dwarven design. The maker's mark suggests that it used to belong to royalty"
+33,"A petrified bone club with an obsidian head."
+34,"A crude shortbow made of treated bone with braided sinew bowstring."
+35,"A longbow carved from purple heartwood with bright steel fixtures and a black bowstring."
 36,"A quarterstaff carved from heartwood, bearing ornate symbols of nature along its length."
-37,A hunting knife and a sheath which sharpens and oils the blade (And only that specific blade) every time it is sheathed.
+37,"A hunting knife and a sheath which sharpens and oils the blade (And only that specific blade) every time it is sheathed."
 38,"A slim bamboo quarterstaff that is a quarter of the weight of a normal quarterstaff but much more fragile. Whenever the wielder rolls a natural 1 on a hit with this weapon, they must roll an additional 1d4. If the roll is another natural 1, roll damage as normal and the weapon shatters, dealing half of the damage to the wielder as well as the target."
-39,A slightly curved longsword with only a single bladed edge. There is an etched symbol of a heron on the base of the blade. The longsword doesn't rust and never need sharpening.
+39,"A slightly curved longsword with only a single bladed edge. There is an etched symbol of a heron on the base of the blade. The longsword doesn't rust and never need sharpening."
 40,"An iron dagger that is slightly longer than the palm of a hand, but wide in proportion. It appears to also have never been sharpened, with an edge that would not cut much more than butter. The hilt is made of deerhorn and wrapped in gold wire."
 41,"A steel spike shaped implement with a curve on the base where is turns into an attachment of sorts. Knowledgeable PC's will recognize this as a spiked bayonet or “pigsticker” that can be affixed to the underside of a crossbow. It's used as a last resort for crossbowmen and allows the wielder to make a melee attack with the spike. If the wielder is proficient with crossbows they are also proficient with the bayonet which is treated as a dagger attack, but only deals a single point of damage on a hit."
-42,A blowgun made of bone with red and brown cord wrapped around it for a handle.
-43,A light pick whose blade is made of a vibrantly purple colored steel.
-44,A three-pronged mace made of black iron and fiend-leather. Knowledgeable PC's will recognize it as the scepter of a recently slain devil lord.
+42,"A blowgun made of bone with red and brown cord wrapped around it for a handle."
+43,"A light pick whose blade is made of a vibrantly purple colored steel."
+44,"A three-pronged mace made of black iron and fiend-leather. Knowledgeable PC's will recognize it as the scepter of a recently slain devil lord."
 45,"A black, lead flail whose head is sculpted to resemble a pair of grasping tentacles."
-46,A curved iron dagger with dried blood on the tip. Its cross guard is slightly wobbly and cured leather is wrapped around the weapon's handle.
+46,"A curved iron dagger with dried blood on the tip. Its cross guard is slightly wobbly and cured leather is wrapped around the weapon's handle."
 47,"A greatsword forged from silver, with black runes etched into its blade."
-48,A war scythe with a blade of the purest obsidian and a handle made of dark ironwood.
+48,"A war scythe with a blade of the purest obsidian and a handle made of dark ironwood."
 49,"A short sword of exceptional quality. The sword's blade is a polished silver colour with curling patterns and designs etched along the edge. The quillons of the sword have the designs of a sun and crescent moon pressed into them, and the pommel is in the shape of a silver rose. This sword feels supernaturally light and balanced in the hand of a wielder who acquired it thought legal or honorable means."
-50,A bastard sword with an aquamarine crystal fitted into its pommel and smaller slivers of the gem scattered throughout the blade.
+50,"A bastard sword with an aquamarine crystal fitted into its pommel and smaller slivers of the gem scattered throughout the blade."
 51,"A leather brace or quiver containing ^AmmunitionAndThrownWeapons^ specially designed to hurt but not seriously injure the target. The weapons deal nonlethal or stun damage and cannot critically injure or kill a target."
-52,A crude rapier made of a single piece of sharpened whalebone with a seal leather grip bound in sinew.
-53,A double-edged battleaxe that always feels wet to the touch. Barnacles cover the weapon and it emanates a strong briny smell.
-54,"This ^RandonNon-AmmunitionWeapons^ radiates evil and profanity like a sour odor that permeates any creature who keeps it on their person for any length of time. The constant influx of immoral and selfish influence can wear on the bearer's mind and long term owners are never quite sure if they wield the weapon, or if the weapon wields them."
-55,"This ^RandonNon-AmmunitionWeapons^ radiates goodness and radiance like a fresh breeze that surrounds any creature who keeps it on their person for any length of time. The constant influx of positive moral and compassionate influence can wear on the bearer's mind and long term owners are never quite sure if they wield the weapon, or if the weapon wields them."
-56,A single headed greateaxe bearing a steel blade with silver glowing sylvan runes carved on it.
-57,A grim longbow made from twisted black wood that slowly seeps poisonous sap.
+52,"A crude rapier made of a single piece of sharpened whalebone with a seal leather grip bound in sinew."
+53,"A double-edged battleaxe that always feels wet to the touch. Barnacles cover the weapon and it emanates a strong briny smell."
+54,"This ^RandomNon-AmmunitionWeapons^ radiates evil and profanity like a sour odor that permeates any creature who keeps it on their person for any length of time. The constant influx of immoral and selfish influence can wear on the bearer's mind and long term owners are never quite sure if they wield the weapon, or if the weapon wields them."
+55,"This ^RandomNon-AmmunitionWeapons^ radiates goodness and radiance like a fresh breeze that surrounds any creature who keeps it on their person for any length of time. The constant influx of positive moral and compassionate influence can wear on the bearer's mind and long term owners are never quite sure if they wield the weapon, or if the weapon wields them."
+56,"A single headed greateaxe bearing a steel blade with silver glowing sylvan runes carved on it."
+57,"A grim longbow made from twisted black wood that slowly seeps poisonous sap."
 58,"A pair of spiked gauntlets made of pale silvery metal, inscribed with jagged patterns and numerous sharp edges"
 59,"A brass handled mace topped with a large spiked conch shell, that's as durable and lethal as steel."
-60,A pair of knuckledusters made of large cowrie shells that are as durable and lethal as brass knuckles.
+60,"A pair of knuckledusters made of large cowrie shells that are as durable and lethal as brass knuckles."
 61,"A silver-plated, steel longsword with a large jet gemstone set in the hilt"
-62,An ebony quarterstaff capped at both ends with highly polished brass that constantly emits a quiet hissing sound.
-63,An oak lance carved with spirals in such a way that the wood looks as though it was shaped and grown into a weapon rather than carved into one.
+62,"An ebony quarterstaff capped at both ends with highly polished brass that constantly emits a quiet hissing sound."
+63,"An oak lance carved with spirals in such a way that the wood looks as though it was shaped and grown into a weapon rather than carved into one."
 64,"A falchion (Short sword statistics) with a segmented, fully rectangular blade, similar to that of a cleaver. The entire weapon is forged of a pitch-black metal. Embedded in the weapon's hilt, is a yellow, crystalline cat's eye."
 65,"A scimitar with a jet black blade, inlaid with three rubies along each side of its blood red hilt. The pommel holds a large ruby cut to resemble a rose in full bloom."
-66,"A dagger which was never fully completed. It is just a blade and tang; the blade is sharpened and hardened, but the hilt was never finished. There is a strange swirl mark on the blade, and the weapon itself has a slight ^RandomColour^ colour."
-67,A bastard sword with a curved golden blade with a translucent edge and an ivory grip and pommel. The weapon shines with an unnatural brightness and is lighter than an iron sword of the same size.
+66,"A dagger which was never fully completed. It is just a blade and tang; the blade is sharpened and hardened, but the hilt was never finished. There is a strange swirl mark on the blade, and the weapon itself has a slight ^RandomColourTable^ colour."
+67,"A bastard sword with a curved golden blade with a translucent edge and an ivory grip and pommel. The weapon shines with an unnatural brightness and is lighter than an iron sword of the same size."
 68,"A leather whip studded with coin-size, dagger-sharp, overlapping half-moon blades."
 69,"A quarterstaff made of an unhealthy looking, dark purple wood capped with an unknown blue metal on either end. It randomly emits whispers that are on the barest edge of the wielders hearing."
-70,A folding pocket knife (Dagger statistics that deals half as much damage.) entirely made from tempered and sharpened glass with a smooth glass handle. The crystal clear glass is as strong as steel.
+70,"A folding pocket knife (Dagger statistics that deals half as much damage.) entirely made from tempered and sharpened glass with a smooth glass handle. The crystal clear glass is as strong as steel."
 71,"A long, cedar wood quarterstaff with a single red rose at the top end. The rose is always in full bloom and never seems worth for wear despite what may happen to it."
-72,A longspear consisting of a thick ash haft topped by a broad leaf-shaped head made of an unknown stone
+72,"A longspear consisting of a thick ash haft topped by a broad leaf-shaped head made of an unknown stone"
 73,"A crescent battleaxe consisting of a thick haft as long as a grown man's thighbone, with three-quarter moon iron blades attached at each end, their planes perpendicular to each other."
 74,"An extraordinarily thin greatsword whose twin fluted blade has a long tapered thin and edged on both sides. Its surface is a strangely mottled oily blue, magenta and silver. The sword's rounded grip ends in a pommel consisting of a single sphere of hematite."
 75,"An ancient single-edged longsword sheathed in a bronze-banded boiled-leather scabbard. While wielded during times of intense anger, bloodlust or rage, the weapon emits a deathly high-pitched keening sound and begins to take on a strange shivering blur."
 76,"An antlered hornwood longbow with a bronze-banded, boiled-leather quiver containing 15 rune-etched stone-tipped arrows."
-77,An enormous iron warhammer with a copper wrapped handle.
+77,"An enormous iron warhammer with a copper wrapped handle."
 78,"A massive two handed double weapon that is a crescent-bladed battleaxe on one end and a studded mace painted with the word “SATRE” on the other. —Note: The wielder can attack using either end of the weapon as a normal two handed weapon, or can attack with both ends of the weapon at once using whatever two weapon fighting penalties exist in your system."
 79,"A tip-heavy, black bladed scimitar."
 80,"A battleaxe with a wide, half-moon shaped blade on one side, balanced by a thick metal spike on the other. Whenever the weapon is used in combat, the wielder can hears the faint howling of wolves in the distance."
-81,A longspear with a spiraling blade that has a metal crossbar approximately halfway down its length.
+81,"A longspear with a spiraling blade that has a metal crossbar approximately halfway down its length."
 82,"A pike with a metal crossbar on which is attached a war banner of red, bearing a circle in the middle, split by a sinuous line. One half of the circle is black, the other is white."
 83,"A battleaxe with an oversized head bristling with spikes and a long, thick haft that only barely counterbalances its weight."
 84,"A broad-bladed bastard sword with nine heavy rings threaded through its spine, providing additional weight to add to the force of its impressive chopping power."
 85,"A longbow made of black yew, with a bowstring constructed of tightly wrapped cords coated in a thin layer of beeswax to protect it from the elements."
 86,"A basket-hilted cutlass (Shortsword statistics), with a grip of cracked red leather wrapped in gold wire and a single deep notch low on the heavy blade."
-87,A driftwood handaxe set with a clamshell blade and a grip of tightly wrapped dried kelp.
+87,"A driftwood handaxe set with a clamshell blade and a grip of tightly wrapped dried kelp."
 88,"A slightly curved, elegant steel blade (DM's choice of sword type.) with a striking black grip that feels like wet, polished stone."
 89,"A long silver hilted bastard sword with an inky blade so dark it seems to swallow light. The weapon is plain and bears no inlay, no pattern welding and no watermarking, just a long straight-edged black blade with a tapering point and a single dorsal spine flanked by ferules. The blade tapers to a narrower base just above the plain cross-hilt and the weapon ends in pommel consisting of an unpolished silver weighted ball."
 90,"A well-balanced warhammer bearing the screaming face of a dwarf at the top, with arms going out to either side, making the bludgeons of the weapon dwarven fists."
-91,A heavy maul made of cracked gray stone that reeks of elemental power. The weapon was carved from the stone heart of a powerful earth spirit and inlaid with geometric sigils in black marble.
+91,"A heavy maul made of cracked gray stone that reeks of elemental power. The weapon was carved from the stone heart of a powerful earth spirit and inlaid with geometric sigils in black marble."
 92,"Living Blade: A paddle of wood, more club than sword, it is carved with a pattern of thorns and leaves. The weapon is still alive and its magical thornwood edges bite and tear at enemies just as a steel blade would. The wielder can choose to use the weapon as either a club or a shortsword, however the weapon is twice as vulnerable to all sources of fire damage."
 93,"A longsword whose blade appears to be made of chalk, and is utterly weightless, although it still has mass (Meaning that is carries momentum when swung, but if placed on a scale it weighs nothing). The handle and cross guard are made from polished bronze, forged into deeply ridged rectangles. It rests in a scabbard of bronze-bound leather."
-94,"A two-handed warhammer, forged from a single piece of cobalt. It is unadorned, except for a shallow-relief sculpture of an elephant's face on each side of the hammer's head. Its long haft is wrapped with a single strip of dragon leather. If the leather is unwrapped, dwarven runes on the haft tell the story of the weapon's forging."
+94,"A two-handed warhammer, forged from a single piece of cobalt.  It is unadorned, except for a shallow-relief sculpture of an elephant's face on each side of the hammer's head. Its long haft is wrapped with a single strip of dragon leather.  If the leather is unwrapped, dwarven runes on the haft tell the story of the weapon's forging."
 95,"A long handled iron staff (Quarterstaff statistics) topped with a complex symmetrical pattern, upon which six tin rings are hung. The tin rings swing freely as the staff moves, constantly making noise. Knowledgeable PC's will recognize this as a khakkhara or singing staff which belongs to an order of priestly monks. The staff and its rings serve a number of purposes: To warn small creatures to move from the wielder's path to avoid being accidentally trodden on, to alert the faithful that there is a priest nearby, as a walking staff and as an implement of self-defence. The staffs are most commonly carried by monks who have taken a vow of silence as a simple method to allow them to create sound in order to communicate."
 96,"A basket-shaped, brass censer on a chain that can safely hold hot coals in order to burn incense during sacred rituals. The outer plating contains etched images and icons of a well-known war god. Heavier than a normal censer it is reinforced with a steel frame and fortifying spells which allows it to be used as a flail. The reduced weight of the flail does make it less deadly when unlit, however the heat and flames of a burning censer balances out its lethality. When lit, half of the weapon's damage is fire damage and the rest typical for a flail. When unlit, the hollowed flail only deals half damage."
 97,"A bronze scimitar sporting a bone and wire-wrapped grip and a series of odd, stripe-like striations along the dull edge of the blade. The wielder can sense a certain cruel animal intelligence from within the blade that thirsts for blood. The sword whines and vibrates unhappily when chopping into undead or other bloodless enemies, but purrs and sings when used against living creatures."

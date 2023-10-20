@@ -1,100 +1,100 @@
-1,"A sealed glass vial filled with a ^RandomColour^ liquid. If consumed, the drinker's skin changes color to match the liquid and glows with the intensity of a candle. All both effects wear off harmlessly after one hour."
-2,A sealed glass vial filled with magically preserved powdered mandrake root.
-3,A sealed glass vial containing a few drops of pure magic. They glow constantly in an array of Random Colours and shine brightly when held by a creature capable of casting magical spells.
-4,A sealed glass vial filled with magically preserved wildflower pollen.
+1,"A sealed glass vial filled with a ^RandomColourTable^ liquid. If consumed, the drinker's skin changes color to match the liquid and glows with the intensity of a candle. All both effects wear off harmlessly after one hour."
+2,"A sealed glass vial filled with magically preserved powdered mandrake root."
+3,"A sealed glass vial containing a few drops of pure magic. They glow constantly in an array of Random Colours and shine brightly when held by a creature capable of casting magical spells."
+4,"A sealed glass vial filled with magically preserved wildflower pollen."
 5,"A sealed glass vial containing a magically preserved humanoid eyeball that's been tattooed with the holy symbol of a god of ^EvilDomains^. It's impossible to determine if the tattoo was done before or after the eye was removed."
-6,A sealed glass vial filled with finely ground ocean pearls.
-7,"A sealed glass vial filled with a ^RandomColour^ liquid. If consumed, the drinker is unable to refer to themselves in the first person (Me, myself and I) for 24 hours."
-8,A sealed glass vial filled with powdered jasper.
-9,"A sealed glass vial filled with a ^RandomColour^ liquid. If consumed, the drinker screams uncontrollably for the next minute."
-10,"A sealed glass vial filled with a ^RandomColour^ liquid. If consumed, the drinker's eyes become invisible for the next 1d4 hours. This does not affect his ability to see."
+6,"A sealed glass vial filled with finely ground ocean pearls."
+7,"A sealed glass vial filled with a ^RandomColourTable^ liquid. If consumed, the drinker is unable to refer to themselves in the first person (Me, myself and I) for 24 hours."
+8,"A sealed glass vial filled with powdered jasper."
+9,"A sealed glass vial filled with a ^RandomColourTable^ liquid. If consumed, the drinker screams uncontrollably for the next minute."
+10,"A sealed glass vial filled with a ^RandomColourTable^ liquid. If consumed, the drinker's eyes become invisible for the next 1d4 hours. This does not affect his ability to see."
 11,"A sealed glass vial containing a reddish-coloured, vile-smelling fluid."
-12,A sealed glass vial of nearly transparent powder that makes skin feel soft and smooth when applied.
-13,"A sealed glass vial containing a ^RandomColour^ liquid. If consumed, the drinker becomes completely deaf for the next hour."
-14,"A sealed glass vial filled with ^RandomColour^ powder that makes any beverage taste like ale."
-15,"A sealed glass vial containing a ^RandomColour^ liquid. If consumed, the drinker becomes unable to taste for the next hour."
-16,A sealed glass vial containing two rooster eyeballs preserved in embalming fluid.
-17,"A sealed glass vial containing a ^RandomColour^ liquid. If consumed, the drinker becomes unable to speak for the next hour."
-18,A sealed glass vial filled with copper shavings.
-19,"A sealed glass vial containing a ^RandomColour^ liquid. If consumed, the drinker gains a significant stutter for the next hour."
-20,A sealed glass vial filled with powdered platinum.
-21,A sealed glass vial filled with magically preserved maple syrup.
-22,A sealed glass vial filled with magically preserved black truffle.
-23,A sealed glass vial filled with a pair of non-mixing red and green liquids. It's quite sour if consumed and leaves the drinker an overwhelming aftertaste of watermelon for the next 1d4 hours.
-24,A sealed glass vial filled with frankincense.
-25,"A sealed glass vial filled with a ^RandomColour^ liquid. If consumed, the drinker feels an urgent call of nature and must immediately leave to relieve himself."
-26,A sealed glass vial filled with pulverized pixie wings.
-27,A sealed glass vial filled with psychoactive tobacco snuff.
-28,A sealed glass vial filled with clove extract.
+12,"A sealed glass vial of nearly transparent powder that makes skin feel soft and smooth when applied."
+13,"A sealed glass vial containing a ^RandomColourTable^ liquid. If consumed, the drinker becomes completely deaf for the next hour."
+14,"A sealed glass vial filled with ^RandomColourTable^ powder that makes any beverage taste like ale."
+15,"A sealed glass vial containing a ^RandomColourTable^ liquid. If consumed, the drinker becomes unable to taste for the next hour."
+16,"A sealed glass vial containing two rooster eyeballs preserved in embalming fluid."
+17,"A sealed glass vial containing a ^RandomColourTable^ liquid. If consumed, the drinker becomes unable to speak for the next hour."
+18,"A sealed glass vial filled with copper shavings."
+19,"A sealed glass vial containing a ^RandomColourTable^ liquid. If consumed, the drinker gains a significant stutter for the next hour."
+20,"A sealed glass vial filled with powdered platinum."
+21,"A sealed glass vial filled with magically preserved maple syrup."
+22,"A sealed glass vial filled with magically preserved black truffle."
+23,"A sealed glass vial filled with a pair of non-mixing red and green liquids. It's quite sour if consumed and leaves the drinker an overwhelming aftertaste of watermelon for the next 1d4 hours."
+24,"A sealed glass vial filled with frankincense."
+25,"A sealed glass vial filled with a ^RandomColourTable^ liquid. If consumed, the drinker feels an urgent call of nature and must immediately leave to relieve himself."
+26,"A sealed glass vial filled with pulverized pixie wings."
+27,"A sealed glass vial filled with psychoactive tobacco snuff."
+28,"A sealed glass vial filled with clove extract."
 29,"A sealed glass vial containing fragments of petrified lighting, created when the electricity courses through beach sand fusing it together into a solid glasslike object called fulgurite."
-30,A sealed glass vial containing fragments of raw meteoric ore.
-31,A sealed glass vial filled with unicorn tears.
-32,A sealed glass vial filled with powdered mithril.
-33,A sealed glass vial filled with the magically preserved blood of virgin.
-34,A sealed glass vial containing magically preserved cactus spines.
-35,A sealed glass vial filled with powdered zinc.
-36,A sealed glass vial filled with olive oil.
-37,"A sealed glass vial filled with ^RandomColour^ hair dye."
-38,"A sealed glass vial filled with a ^RandomColour^ liquid. If consumed, the drinker belly laughs uncontrollably for the next minute."
-39,A sealed glass vial filled with tallow.
-40,A sealed glass vial containing magically preserved pine needles.
-41,A sealed glass vial filled with powdered lead.
-42,"A sealed glass vial filled with a ^RandomColour^ liquid. If consumed, the drinker cackles uncontrollably for the next minute."
-43,A sealed glass vial filled with powdered pewter.
-44,A sealed glass vial filled with powdered tin.
-45,"A sealed glass vial containing a ^RandomColour^ liquid. If consumed, the drinker's breath smells like fresh roses for the next eight hours."
-46,A sealed glass vial filled with powdered ivory.
-47,A sealed glass vial filled with a lice and flea soap.
-48,A sealed glass vial filled with a rash ointment.
-49,"A sealed glass vial filled with a ^RandomColour^ liquid. If consumed, the drinker cries uncontrollably for the next minute."
-50,A sealed glass vial filled with powdered bronze.
-51,A sealed glass vial filled with the magically preserved blood of a warlock.
-52,A sealed glass vial filled with powdered brass.
-53,"A sealed glass vial containing a ^RandomColour^ liquid. If consumed, the drinker's breath smells like fresh manure for the next eight hours."
-54,A sealed glass vial filled with alum.
-55,A sealed glass vial containing the cremated remains of a mage.
-56,A sealed glass vial filled with powdered onyx.
-57,A sealed glass vial filled with nutmeg.
-58,"A sealed glass vial containing a ^RandomColour^ liquid. If consumed, the drinker's breath smells like fresh mint for the next eight hours."
-59,A sealed glass vial filled with camphor.
-60,"A sealed glass vial filled with a ^RandomColour^ liquid. If consumed, the drinker giggles uncontrollably for the next minute."
-61,A sealed glass vial filled with dried ginseng.
-62,A sealed glass vial filled with myrrh.
-63,A sealed glass vial filled with paint flakes. The label states they're from a famous painting. A knowledgeable PC will know the painting in question is missing paint from the face of one of the figures in it.
-64,A sealed glass vial filled with dried powdered shark's fin.
-65,A sealed glass vial filled with lemon extract.
-66,A sealed glass vial filled with powdered dragon bone.
-67,A sealed glass vial filled with powdered rhinoceros' horn.
-68,A sealed glass vial filled with ammonia.
+30,"A sealed glass vial containing fragments of raw meteoric ore."
+31,"A sealed glass vial filled with unicorn tears."
+32,"A sealed glass vial filled with powdered mithril."
+33,"A sealed glass vial filled with the magically preserved blood of virgin."
+34,"A sealed glass vial containing magically preserved cactus spines."
+35,"A sealed glass vial filled with powdered zinc."
+36,"A sealed glass vial filled with olive oil."
+37,"A sealed glass vial filled with ^RandomColourTable^ hair dye."
+38,"A sealed glass vial filled with a ^RandomColourTable^ liquid. If consumed, the drinker belly laughs uncontrollably for the next minute."
+39,"A sealed glass vial filled with tallow."
+40,"A sealed glass vial containing magically preserved pine needles."
+41,"A sealed glass vial filled with powdered lead."
+42,"A sealed glass vial filled with a ^RandomColourTable^ liquid. If consumed, the drinker cackles uncontrollably for the next minute."
+43,"A sealed glass vial filled with powdered pewter."
+44,"A sealed glass vial filled with powdered tin."
+45,"A sealed glass vial containing a ^RandomColourTable^ liquid. If consumed, the drinker's breath smells like fresh roses for the next eight hours."
+46,"A sealed glass vial filled with powdered ivory."
+47,"A sealed glass vial filled with a lice and flea soap."
+48,"A sealed glass vial filled with a rash ointment."
+49,"A sealed glass vial filled with a ^RandomColourTable^ liquid. If consumed, the drinker cries uncontrollably for the next minute."
+50,"A sealed glass vial filled with powdered bronze."
+51,"A sealed glass vial filled with the magically preserved blood of a warlock."
+52,"A sealed glass vial filled with powdered brass."
+53,"A sealed glass vial containing a ^RandomColourTable^ liquid. If consumed, the drinker's breath smells like fresh manure for the next eight hours."
+54,"A sealed glass vial filled with alum."
+55,"A sealed glass vial containing the cremated remains of a mage."
+56,"A sealed glass vial filled with powdered onyx."
+57,"A sealed glass vial filled with nutmeg."
+58,"A sealed glass vial containing a ^RandomColourTable^ liquid. If consumed, the drinker's breath smells like fresh mint for the next eight hours."
+59,"A sealed glass vial filled with camphor."
+60,"A sealed glass vial filled with a ^RandomColourTable^ liquid. If consumed, the drinker giggles uncontrollably for the next minute."
+61,"A sealed glass vial filled with dried ginseng."
+62,"A sealed glass vial filled with myrrh."
+63,"A sealed glass vial filled with paint flakes. The label states they're from a  famous painting. A knowledgeable PC will know the painting in question is missing paint from the face of one of the figures in it."
+64,"A sealed glass vial filled with dried powdered shark's fin."
+65,"A sealed glass vial filled with lemon extract."
+66,"A sealed glass vial filled with powdered dragon bone."
+67,"A sealed glass vial filled with powdered rhinoceros' horn."
+68,"A sealed glass vial filled with ammonia."
 69,"A sealed glass vial filled with the magically preserved, silver blood of an angel."
-70,A sealed glass vial containing a miniature water elemental. The elemental is conscious and aware of its surroundings and seems to be under a magical stasis allowing it to survive indefinitely if the vial remains sealed.
-71,A sealed glass vial filled with magically preserved passionflower blossoms.
-72,A sealed glass vial filled with the magically preserved griffon blood.
-73,A sealed glass vial filled with powdered malachite.
-74,A sealed glass vial filled with powdered dragon tooth.
-75,A sealed glass vial containing crumbs rumored to be from an ancient king's wedding cake.
-76,A sealed glass vial filled with powdered quartz.
+70,"A sealed glass vial containing a miniature water elemental. The elemental is conscious and aware of its surroundings and seems to be under a magical stasis allowing it to survive indefinitely if the vial remains sealed."
+71,"A sealed glass vial filled with magically preserved passionflower blossoms."
+72,"A sealed glass vial filled with the magically preserved griffon blood."
+73,"A sealed glass vial filled with powdered malachite."
+74,"A sealed glass vial filled with powdered dragon tooth."
+75,"A sealed glass vial containing crumbs rumored to be from an ancient king's wedding cake."
+76,"A sealed glass vial filled with powdered quartz."
 77,"A sealed glass vial filled with a fine, bright orange powder. The label reads “Powdered Cheddar”."
-78,A sealed glass vial filled with powdered dragon claw.
-79,A sealed glass vial filled with powdered granite.
-80,"A sealed glass vial containing a ^RandomColour^ liquid. If consumed, the drinker becomes completely blind for the next hour."
-81,A sealed glass vial filled with powdered garnet.
-82,A sealed glass vial filled with powdered iron.
-83,A sealed glass vial filled with fermented raccoon milk.
-84,A sealed glass vial containing a bright yellow powder that induces happy tears when inhaled.
-85,A sealed glass vial filled with powdered nickel.
+78,"A sealed glass vial filled with powdered dragon claw."
+79,"A sealed glass vial filled with powdered granite."
+80,"A sealed glass vial containing a ^RandomColourTable^ liquid. If consumed, the drinker becomes completely blind for the next hour."
+81,"A sealed glass vial filled with powdered garnet."
+82,"A sealed glass vial filled with powdered iron."
+83,"A sealed glass vial filled with fermented raccoon milk."
+84,"A sealed glass vial containing a bright yellow powder that induces happy tears when inhaled."
+85,"A sealed glass vial filled with powdered nickel."
 86,"A sealed glass vial filled with a cobalt blue sap that smells of a forge. When it comes into contact with metal, it will make a small, heatless weld."
-87,A sealed glass vial filled with powdered emerald.
-88,A sealed glass vial filled with powdered sapphire.
-89,A sealed glass vial containing a miniature fire elemental. The elemental is conscious and aware of its surroundings and seems to be under a magical stasis allowing it to survive indefinitely if the vial remains sealed.
-90,A sealed glass vial filled with powdered adamantine.
-91,A sealed glass vial filled with gravesoil.
-92,"A sealed glass vial filled with powdered ^RandomColour^ jade."
-93,A sealed glass vial filled with old ratty hair. The label reads “Witch's Mane”.
-94,A sealed glass vial containing hummingbird feathers.
-95,A sealed glass vial filled with ground satyr horn.
-96,A sealed glass vial containing a miniature earth elemental. The elemental is conscious and aware of its surroundings and seems to be under a magical stasis allowing it to survive indefinitely if the vial remains sealed.
-97,A sealed glass vial filled with ground centaur hoof.
-98,A sealed glass vial filled with magically preserved snow that fell under a full moon.
-99,A sealed glass vial containing a shard of glass originating from the Abyss.
-100,"A sealed glass vial containing a ^RandomColour^ liquid. If consumed, the drinker sees everything goes black for a few seconds. When he can see again, he is standing in a long 20 foot wide, 100 ft long corridor whose walls are lined with strange chairs. Every chair has a strangely clothed human in it, and there are 120 people in all. They all stare at the drinker, mouths wide open. He can see clouds though the small oval windows on the walls behind each human and can hear a distant humming sound. There is a strange door to his right but the drinker finds himself unable to move in any way as if completely paralyzed. After roughly twelve seconds, everything goes black again as the vision fades and he's back where he started."
+87,"A sealed glass vial filled with powdered emerald."
+88,"A sealed glass vial filled with powdered sapphire."
+89,"A sealed glass vial containing a miniature fire elemental. The elemental is conscious and aware of its surroundings and seems to be under a magical stasis allowing it to survive indefinitely if the vial remains sealed."
+90,"A sealed glass vial filled with powdered adamantine."
+91,"A sealed glass vial filled with gravesoil."
+92,"A sealed glass vial filled with powdered ^RandomColourTable^ jade."
+93,"A sealed glass vial filled with old ratty hair. The label reads “Witch's Mane”."
+94,"A sealed glass vial containing hummingbird feathers."
+95,"A sealed glass vial filled with ground satyr horn."
+96,"A sealed glass vial containing a miniature earth elemental. The elemental is conscious and aware of its surroundings and seems to be under a magical stasis allowing it to survive indefinitely if the vial remains sealed."
+97,"A sealed glass vial filled with ground centaur hoof."
+98,"A sealed glass vial filled with magically preserved snow that fell under a full moon."
+99,"A sealed glass vial containing a shard of glass originating from the Abyss."
+100,"A sealed glass vial containing a ^RandomColourTable^ liquid. If consumed, the drinker sees everything goes black for a few seconds. When he can see again, he is standing in a long 20 foot wide, 100 ft long corridor whose walls are lined with strange chairs. Every chair has a strangely clothed human in it, and there are 120 people in all. They all stare at the drinker, mouths wide open. He can see clouds though the small oval windows on the walls behind each human and can hear a distant humming sound. There is a strange door to his right but the drinker finds himself unable to move in any way as if completely paralyzed. After roughly twelve seconds, everything goes black again as the vision fades and he's back where he started."
