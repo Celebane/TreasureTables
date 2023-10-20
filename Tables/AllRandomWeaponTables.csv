@@ -38,17 +38,17 @@
 38,Spiked Chain
 39,War Scythe
 40,Fullblade
-41,Roll 3d10 Bolts
-42,Roll 3d10 Arrows
-43,Roll 3d10 War Darts
-44,Roll 3d10 Throwing Knives
-45,Roll 3d10 Javelins
-46,Roll 3d10 Throwing Axes
-47,Roll 3d10 Bolas
-48,Roll 3d10 Throwing Hammers
-49,Roll 3d10 Shuriken / Throwing Stars
-50,Roll 3d10 Harpoons and Rope
-51,Roll 3d10 Chakram
+41,##3d10## Bolts
+42,##3d10## Arrows
+43,##3d10## War Darts
+44,##3d10## Throwing Knives
+45,##3d10## Javelins
+46,##3d10## Throwing Axes
+47,##3d10## Bolas
+48,##3d10## Throwing Hammers
+49,##3d10## Shuriken / Throwing Stars
+50,##3d10## Harpoons and Rope
+51,##3d10## Chakram
 52,Blowgun
 53,Sling
 54,Shortbow
@@ -57,3 +57,4 @@
 57,Hand Crossbow
 58,Light Crossbow
 59,Heavy Crossbow
+60,Sap

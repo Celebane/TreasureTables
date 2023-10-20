@@ -2,14 +2,22 @@ function GetRandomItem
 {
     #Grab a random item from main csv
     $CSV = Import-Csv ".\Tables\Master.csv" -Header ID, Item | Get-Random
-    $Item=$CSV.Item
-    $Item
-    #Check if there are more items to roll
+    $Item = $CSV.Item
+    $Breadcrumb = 'Master'
+    
+    #Check if there are more tables to roll on
     while ($Item -like '*^*^*')
     {
         $File = $Item.Substring($Item.IndexOf('^') + 1, $Item.IndexOf('^', $Item.IndexOf('^') + 1) - ($Item.IndexOf('^') + 1))
-        $Additional= Import-Csv ".\Tables\$File.csv" -Header ID, Item  | Get-Random
-        $Item = $Item.replace('^' + $File + '^', $Additional)
+        $Additional = Import-Csv ".\Tables\$File.csv" -Header ID, Item  | Get-Random
+        $Breadcrumb = $Breadcrumb + ' > ' + $File
+        $Item = $Item.replace('^' + $File + '^', $Additional.Item.Trim())
+    }
+
+    #Check if we need to add line breaks
+    while ($Item -like '*::*')
+    {
+        $Item = $Item.replace('::', "`n`n")  
     }
 
     #Check if there are Dice Rolls required
@@ -43,7 +51,7 @@ function GetRandomItem
         }
         $Item = $Item.replace('##' + $D + '##', ($Rolls + $Modifier))
     }
-
+    $Breadcrumb
     $Item
     
 }
