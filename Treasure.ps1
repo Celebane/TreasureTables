@@ -1,36 +1,23 @@
-function UniqueArmor
+function GetRandomItem
 {
-    #Import the top CSV
-    $CSV = Import-Csv ".\Tables\AllRandomWeapon.csv" -Header ID, Item
-
-    #Create the Dice based on the number of rows in the CSV
-    #and roll it to see which iten to grab
-    $Die = New-Dice -Sides $CSV.count
-    $Lookup = New-DiceRoll -Dice $Die -NoCrits
-    $AT = $CSV[$Lookup - 1].Item
-
+    #Grab a random item from main csv
+    $CSV = Import-Csv ".\Tables\Master.csv" -Header ID, Item | Get-Random
+    $Item=$CSV.Item
+    $Item
     #Check if there are more items to roll
-    while ($AT -like '*^*^*')
+    while ($Item -like '*^*^*')
     {
-        $Start = $AT.IndexOf('^')
-        $End = $AT.IndexOf('^', $AT.IndexOf('^') + 1)
-        $File = $AT.Substring($Start + 1, $End - ($Start + 1))
-        $File
-        $CSV = Import-Csv ".\Tables\$File.csv" -Header ID, Item
-        $Die = New-Dice -Sides $CSV.count
-        $Lookup = New-DiceRoll -Dice $Die -NoCrits
-        $Item = $CSV[$Lookup - 1].Item
-        $AT = $AT.replace('^' + $File + '^', $Item)
+        $File = $Item.Substring($Item.IndexOf('^') + 1, $Item.IndexOf('^', $Item.IndexOf('^') + 1) - ($Item.IndexOf('^') + 1))
+        $Additional= Import-Csv ".\Tables\$File.csv" -Header ID, Item  | Get-Random
+        $Item = $Item.replace('^' + $File + '^', $Additional)
     }
 
     #Check if there are Dice Rolls required
-    while ($AT -like '*##*##*')
+    while ($Item -like '*##*##*')
     {
         $Modifier = 0
         $Rolls = 0
-        $Start = $AT.IndexOf('##')
-        $End = $AT.IndexOf('##', $AT.IndexOf('##') + 2)
-        $D = $AT.Substring($Start + 2, $End - ($Start + 2))
+        $D = $Item.Substring($Item.IndexOf('##') + 2, $Item.IndexOf('##') - ($Item.IndexOf('##') + 2))
         
         #Check for positive modifier
         if ($D -like '*+*')
@@ -40,7 +27,7 @@ function UniqueArmor
             $D = $D -ne $D[1]
         }
 
-        #Check for positive modifier
+        #Check for negative modifier
         if ($D -like '*-*')
         {
             $D = $D -split '-'
@@ -48,18 +35,17 @@ function UniqueArmor
             $D = $D -ne $D[1]
         }
 
-        $Dice = $D -split "d"
+        $Dice = $D -split "d" 
         for ($i = 0; $i -lt $Dice[0]; $i++)
         {
-            $Die = New-Dice -Sides $Dice[1]
-            $Roll = New-DiceRoll -Dice $Die -NoCrits
+            $Roll = Get-Random -Minimum 1 -Maximum $Dice[1]
             $Rolls = $Rolls + $Roll
         }
-        $AT = $AT.replace('##' + $D + '##', ($Rolls + $Modifier))
+        $Item = $Item.replace('##' + $D + '##', ($Rolls + $Modifier))
     }
 
-    $AT
+    $Item
     
 }
 Clear-Host
-UniqueArmor
+GetRandomItem
